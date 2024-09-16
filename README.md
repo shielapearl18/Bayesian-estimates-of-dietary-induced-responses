@@ -1,5 +1,5 @@
 # Bayesian-estimates-of-dietary-induced-responses
-Data and code associated with EBAX-1/ZSWIM8 destabilizes clustered microRNAs resulting in transgenerational memory of a predatory trait ([![DOI]](https://doi.org/10.1101/2024.09.10.612280))
+Data and code associated with EBAX-1/ZSWIM8 destabilizes clustered microRNAs resulting in transgenerational memory of a predatory trait ([[bioRxiv]](https://doi.org/10.1101/2024.09.10.612280))
 
 Content:
 
